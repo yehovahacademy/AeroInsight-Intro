@@ -69,6 +69,8 @@
   </div>
 </div>
 
+<div class=""></div>
+
 
 
 <style>
@@ -79,7 +81,7 @@
     background-image:linear-gradient(
             rgba(0,0,0,0.6),
             rgba(0,0,0,0.6)
-        ), url('background.png');
+        ), url('/background.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
