@@ -87,6 +87,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     height: 50vh;
+    border-radius: 12px;
   }
 
   .badge {
