@@ -74,6 +74,8 @@
 
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Inter:wght@300;400;500;600;700&display=swap');
+
   .hero {
     padding: 5rem 2rem 4rem;
     text-align: center;
@@ -110,6 +112,7 @@
     margin: 0 0 1rem;
     letter-spacing: -0.5px;
     line-height: 1.2;
+    font-family: 'Orbitron',sans-serif;
   }
 
   .accent { color: whitesmoke; }
