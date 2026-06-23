@@ -15,7 +15,11 @@
 <p class="para-3">Unlike traditional reporting tools, AeroInsight transforms complex aviation datasets into clear and actionable intelligence, helping users identify trends, compare performance metrics, and make informed decisions.</p> 
 <p class="para-4">With support for advanced analytics, interactive visualizations, and future AI-powered forecasting capabilities, AeroInsight delivers a comprehensive and user-friendly experience tailored to the evolving needs of the aviation industry.</p>
 </div>
+<div class="feature-card-heading">
+<h1>These are the kind of insights for flights.</h1>
+</div>
 
+<div class= "dashboard-container">
 <div class="features-card">
   <div class="card-1">
 
@@ -234,6 +238,7 @@
 
   </div>
 </div>
+</div>
         
 
 
@@ -304,8 +309,30 @@
   }
 
   /* Card wrapper */
+
+.dashboard-container {
+   display: flex;
+  flex-direction: row;
+   gap: 24px;
+    max-width: 1200px;
+    width: 100%;
+    align-items: stretch;       
+    scroll-snap-type: x mandatory;
+}  
+
+.feature-card-heading h1 {
+  text-align: center;
+  font-size: 30px;
+  color: black;
+  font-weight: 700;
+  font-style: normal;
+
+}
 .features-card {
+  flex: 0 0 320px;          /* fixed width, don't shrink */
+    scroll-snap-align: start;
   padding: 1.5rem;
+ 
 }
 
 .card-1 {
