@@ -310,6 +310,7 @@
 
   /* Card wrapper */
 
+
 .dashboard-container {
    display: flex;
   flex-direction: row;
