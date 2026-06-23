@@ -5,7 +5,6 @@
 
 <!-- src/routes/contact/+page.svelte -->
 <svelte:head>
-  <title>Contact | Get in Touch</title>
   <meta name="description" content="Connect with us. Email, phone, or LinkedIn." />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 </svelte:head>
