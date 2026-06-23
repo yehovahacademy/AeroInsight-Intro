@@ -28,6 +28,8 @@
   </div>
 </nav>
 
+<br><br>
+
 <slot />
 
 <footer class="footer">
