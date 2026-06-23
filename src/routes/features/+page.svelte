@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>Features | Feautures of AeroInsight</title>
+  <title>Features | Features of AeroInsight</title>
 </svelte:head>
 
 <link
@@ -22,6 +22,8 @@
 <div class="feature-card-heading">
 <h1>These are the kind of insights for flights.</h1>
 </div>
+
+<br><br><br>
 
 <div class= "dashboard-container">
 <div class="features-card">
