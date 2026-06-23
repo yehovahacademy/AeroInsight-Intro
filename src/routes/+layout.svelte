@@ -50,7 +50,6 @@
       <a href="/">Home</a>
       <a href="/aboutus">About us</a>
       <a href="/features">Features</a>
-      <a href="/dashboard">Dashboard</a>
       <a href="/contact">Contact</a>
     </div>
 
