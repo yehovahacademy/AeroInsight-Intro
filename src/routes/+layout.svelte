@@ -22,7 +22,7 @@
   </div>
 
   <div class="nav-right">
-    <a href="https://aero-insight-dashboard-frontend.vercel.app/" class="cta-btn">
+    <a href="https://aero-insight-dashboard-frontend.vercel.app/Dashboard" class="cta-btn">
       Dashboard
     </a>
   </div>
